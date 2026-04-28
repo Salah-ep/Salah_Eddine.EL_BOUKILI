@@ -36,7 +36,7 @@ while alive:
     learn()
     build()
     visualize()
-    repeat()
+    take_action()
 ```
 
 ---
